@@ -1,4 +1,4 @@
-- id: JenkinsfileLint
+- id: JenkinsfileLinter
   name: Test Jenkinsfile
   description: Jenkinsfile linter
   entry: hooks/JenkinsfileLint.sh
