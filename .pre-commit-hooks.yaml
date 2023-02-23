@@ -1,6 +1,6 @@
 - id: JenkinsfileLinter
-  name: Test Jenkinsfile
-  description: Jenkinsfile linter
+  name: Jenkinsfile Linter
+  description: Jenkinsfile Linter
   entry: hooks/JenkinsfileLint.sh
   language: script
   files: ^Jenkinsfile
