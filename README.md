@@ -30,7 +30,7 @@ Installation
 3. pre-commit install 
 
 
-A sample .pre-commit-config.yaml may look like the following:
+A sample **.pre-commit-config.yaml** may look like the following:
 
 ```yaml
 - repo: https://github.com/govindsme/JenkinsfileLint
@@ -40,7 +40,7 @@ A sample .pre-commit-config.yaml may look like the following:
         args: ['Jenkinsfile']                           # name of the Jenkinsfile
 ```
 
-You may require to add .groovylintrc.json to have the required exclusion
+You may require to add **.groovylintrc.json** to have the required exclusion
 
 ```json
 {
