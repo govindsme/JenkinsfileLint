@@ -40,6 +40,20 @@ A sample .pre-commit-config.yaml may look like the following:
         args: ['Jenkinsfile']                           # name of the Jenkinsfile
 ```
 
+You may require to add .groovylintrc.json to have the required exclusion
+
+```json
+{
+    "extends": "recommended-jenkinsfile",
+    "rules": {
+        "ignoreVariableNames": "off",
+        "VariableName": {
+            "severity": "info"
+        }
+    }
+}
+```
+
 Contributing
 ------------
 
