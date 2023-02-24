@@ -1,3 +1,4 @@
+---
 - id: JenkinsfileLinter
   name: Jenkinsfile Linter
   description: Jenkinsfile Linter
