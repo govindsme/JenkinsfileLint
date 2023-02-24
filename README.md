@@ -9,7 +9,7 @@ Table of Contents
 -----------------
 
   * [Requirements](#requirements)
-  * [Install](#installation)
+  * [Installation](#installation)
   * [Contributing](#contributing)
   * [License](#license)
   * [Author](#author)
