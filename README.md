@@ -34,7 +34,7 @@ A sample **.pre-commit-config.yaml** may look like the following:
 
 ```yaml
 - repo: https://github.com/govindsme/JenkinsfileLint
-    rev: v1.2.0.                                        # tag
+    rev: v1.3.0                                        # tag
     hooks:
       - id: JenkinsfileLinter
         args: ['Jenkinsfile']                           # name of the Jenkinsfile
