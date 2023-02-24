@@ -23,4 +23,4 @@ jobs:
         run: |
           tag_version=$(cat version.cfg | awk -F"=" '{ print $2 }')
           git tag $tag_version --force
-          git push --tags
+          git push --tags --force
