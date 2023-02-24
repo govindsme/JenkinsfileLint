@@ -1,3 +1,5 @@
+![Branch main](https://img.shields.io/badge/branch-main-brightgreen.svg?style=flat-square)[![release](https://github.com/govindsme/JenkinsfileLint/actions/workflows/release.yml/badge.svg)](https://github.com/govindsme/JenkinsfileLint/actions/workflows/release.yml)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/govindsme/JenkinsfileLint/blob/main/LICENSE)
+
 # JenkinsfileLint
 
 This pre-commit hook uses [nvuillam/npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) docker image for linting Jenkinsfile.
