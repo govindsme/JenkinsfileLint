@@ -41,7 +41,7 @@ A sample .pre-commit-config.yaml may look like the following:
 Contributing
 ------------
 
-To contribute to JenkinsfileLint, clone this repo locally and commit your code on a separate branch. 
+To contribute to JenkinsfileLint, fork this repo and raise a pull request. 
 
 
 Author
